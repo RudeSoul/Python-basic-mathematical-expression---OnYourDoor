@@ -1,0 +1,8 @@
+PYTHON is 4space or 1tab language, the thing you need to care on python is space. Else its just a python you can bang easily
+On python you doesnot need any declearation 
+It all happen automatically, 
+
+and changing on datatype is also easy on python just just give the datatype and it all hapened
+
+You just need to love python <3 
+#Keep loving . Py
